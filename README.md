@@ -1,10 +1,10 @@
 # Hi, I'm Eden Amzallag
 
-I'm a Computer Science student based in Jerusalem, building practical digital products with a strong focus on mobile apps, automation, and product thinking.
+I'm a Computer Science student based in Jerusalem, focused on building practical digital products with a strong interest in mobile apps, automation, AI-assisted tools, and product design.
 
 ## Currently working on
 
-A private AI-assisted mobile product focused on improving business operations and workforce workflows.
+A private AI-assisted mobile product focused on improving business operations and internal workflows.
 
 Due to the confidential nature of the project, the source code and internal product details are not publicly available.
 
