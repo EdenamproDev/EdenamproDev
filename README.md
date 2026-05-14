@@ -1,11 +1,12 @@
 # Hi, I'm Eden Amzallag
 
-I'm a Computer Science student based in Jerusalem, building AI-assisted mobile products with a strong focus on product thinking, clean design, and practical real-world use cases.
+I'm a Computer Science student based in Jerusalem, building practical digital products with a strong focus on mobile apps, automation, and product thinking.
 
-## Currently building
+## Currently working on
 
-### Badgy
-An AI-assisted workforce management mobile app designed to help businesses manage employee activity, scheduling, GPS-based tracking, notifications, and admin workflows.
+A private AI-assisted mobile product focused on improving business operations and workforce workflows.
+
+Due to the confidential nature of the project, the source code and internal product details are not publicly available.
 
 ## What I'm interested in
 
@@ -22,7 +23,6 @@ An AI-assisted workforce management mobile app designed to help businesses manag
 - TypeScript
 - Tailwind CSS
 - Supabase / Firebase
-- Framer Motion
 
 ## My goal
 
